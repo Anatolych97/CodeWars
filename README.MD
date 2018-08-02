@@ -25,6 +25,7 @@
 -  [String incrementer](https://github.com/Anatolych97/CodeWars/tree/master/5%20kyu/5kyu_String_incrementer.js)
 -  [Valid Parentheses](https://github.com/Anatolych97/CodeWars/tree/master/5%20kyu/5kyu_Valid_Parentheses.js)
 -  [Write out numbers](https://github.com/Anatolych97/CodeWars/tree/master/5%20kyu/5kyu_Write_out_numbers.js)
+-  [Scraping Codewars Top 500](https://github.com/Anatolych97/CodeWars/tree/master/5%20kyu/5kyu_Scraping_Codewars_Top_500_Users.js)
 ## [6 kuy](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu)
 -  [Extract file name](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_extract_file_name.js)
 -  [Are they the same](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Are_they_the_same.js)
@@ -61,3 +62,4 @@
 - [Square(n)Sum](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu/8kyu_Square(n)Sum.js)
 - [String repeat](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu/8kyu_String_repeat.js)
 - [Sum without highest and lowest number](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu/8kyu_Sum_without_highest_and_lowest_number.js)
+- [Sum of positive](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu/8kyu_Sum_of_positive.js)
