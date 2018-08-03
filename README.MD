@@ -7,6 +7,7 @@
 ## [4 kuy](https://github.com/Anatolych97/CodeWars/tree/master/4%20kyu)
 - [Range Extraction](https://github.com/Anatolych97/CodeWars/tree/master/4%20kyu/4kyu_Range_Extraction.js)
 - [Sudoku Solution Validator](https://github.com/Anatolych97/CodeWars/tree/master/4%20kyu/4kyu_Sudoku_Solution_Validator.js)
+- [Counting Change Combinations](https://github.com/Anatolych97/CodeWars/tree/master/4%20kyu/4kyu_Counting_Change_Combinations.js)
 - [Nesting Structure Comparison](https://github.com/Anatolych97/CodeWars/tree/master/4%20kyu/4kyu_Nesting_Structure_Comparison.js)
 - [Decode the morse code (advanced)](https://github.com/Anatolych97/CodeWars/tree/master/4%20kyu/4kyu_Decode_the_Morse_code_advanced.js)
 ## [5 kuy](https://github.com/Anatolych97/CodeWars/tree/master/5%20kyu)
