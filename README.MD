@@ -40,6 +40,7 @@
 -  [Count the smiley faces](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Count_the_smiley_faces.js)
 -  [Take a ten minute walk](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Take_a_ten_minute_walk.js)
 -  [Format a string of names](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Format_a_string_of_names.js)
+-  [Linked Lists Sorted Insert](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Linked_Lists_Sorted_Insert.js)
 -  [Linked-Lists Length & Count](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Linked_Lists_Length_&_Count.js)
 -  [Linked-Lists Insert Nth Node](https://github.com/Anatolych97/CodeWars/tree/master/6%20kyu/6kyu_Linked_Lists_Insert_Nth_Node.js)
 ## [7 kuy](https://github.com/Anatolych97/CodeWars/tree/master/7%20kyu)
@@ -58,7 +59,6 @@
 - [Remove consecutive duplicate words](https://github.com/Anatolych97/CodeWars/tree/master/7%20kyu/7kyu_Remove_consecutive_duplicate_words.js)
 - [Linked-Lists Push & BuildOneTwoThree](https://github.com/Anatolych97/CodeWars/tree/master/7%20kyu/7kyu_Linked_Lists_Push_&_BuildOneTwoThree.js)
 - [Linked Lists Remove Duplicates](https://github.com/Anatolych97/CodeWars/tree/master/7%20kyu/7kyu_Linked_Lists_Remove_Duplicates.js)
-
 ## [8 kuy](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu)
 - [Multiply](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu/8kyu_Multiply.cs)
 - [Fake Binary](https://github.com/Anatolych97/CodeWars/tree/master/8%20kyu/8kyu_Fake_Binary.js)
