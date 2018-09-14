@@ -3,7 +3,7 @@
 ![](https://www.codewars.com/users/Anatolych97/badges/large)
 # Categories
 ## [1 kyu](https://github.com/Anatolych97/CodeWars/tree/master/1%20kyu)
-- [Regular Expression for Binary Numbers Divisible by n](https://github.com/Anatolych97/CodeWars/tree/master/1%20kyu/1kyu_Regular Expression for_Binary_Numbers_Divisible_by_n.js)
+- [Regular Expression for Binary Numbers Divisible by n](https://github.com/Anatolych97/CodeWars/tree/master/1%20kyu/1kyu_Regular_Expression_for_Binary_Numbers_Divisible_by_n.js)
 ## [3 kyu](https://github.com/Anatolych97/CodeWars/tree/master/3%20kyu)
 - [Dont rely on luck](https://github.com/Anatolych97/CodeWars/tree/master/3%20kyu/3kyu_Dont_rely_on_luck.js)
 - [Defuse the bombs](https://github.com/Anatolych97/CodeWars/tree/master/3%20kyu/3kyu_Defuse_the_bombs.js)
